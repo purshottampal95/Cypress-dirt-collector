@@ -18,8 +18,6 @@ describe("Login Page", function () {
         cy.get(':nth-child(2) > .form-group > label').contains('Email Address')
         cy.get(':nth-child(3) > .form-group > label').contains("Message")
         cy.get('span > b').contains('send')
-
-
     });
     it("should verify lable", () => {
         cy.get('#save-contact').click()
