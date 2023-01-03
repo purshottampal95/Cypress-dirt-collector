@@ -1,9 +1,10 @@
 {
     "FirstName": "purshottam",
     "LastName": "pal",
-    "Email": "ppal211@yopmail.com",
-    "Password": "Pal@123",
+    "Email": "ppal@yopmail.com",
+    "Password": "Pal@123456",
     "Repassword": "Pal@123",
-    "url":"https://dirt.c247.website/contact-us"
+    "url":"https://dirt.c247.website/contact-us",
+    "url1": "https://dirt.c247.website"
 
   }
